@@ -2,7 +2,7 @@
 A terminal-based system monitor built with Node.js that displays live CPU usage, memory usage, uptime, platform details, and real-time system statistics with colored alerts.
 
 <img width="494" height="691" alt="Screenshot 2026-03-18 211939" src="https://github.com/user-attachments/assets/bb82f2ef-10f9-499c-bda0-0f5756163f8e" />
-Screenshot 2026-03-18 211939.png"
+
 
 
 
